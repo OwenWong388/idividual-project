@@ -1,12 +1,13 @@
 # API
 
-Twitter API<br />
-API Key: 4idjVfwfRP5SyyEWYgT4S9hmj<br />
-API Key Secret: ghfrN94N1vbIpeBNM18OgGF1oVZCBCCIw6L3b0SWrnPfzzzfti<br />
-Bearer Token: AAAAAAAAAAAAAAAAAAAAAMFDbQEAAAAAoFpQ5%2BGbYIWGeUQf5kMCvR3qNGo%3DKBPfvolVwzLjUjPjtj5HZIoznR1YkzeCVgMvWBk8OjQs1Nv0Db<br />
-Flickr API<br />
-Key: c2f2c8f9f1b00068e94c13545828d9b4<br />
-Secret: c89b7dd435d0efd2<br />
-Facebook API<br />
-App Id: 1394446111028082<br />
-Secret: 16793c59b454a685088d8f7fad0eaaca<br />
+I have been using Twitter API and Facebook Grpah API for this project.<br />
+In the GUI there have been data stored which capture by the Twitter API and Facebook Graph API<br />
+first to use this app enter hello<br />
+Then enter:<br />
+1 to access data capture by Twitter API<br />
+2 to access data capture by Facebook Graph API<br />
+If chose 1, the app will ask to access either tweet data or user data<br />
+Enter 1 for tweet and 2 for user<br />
+Facebook data will show all the data at once<br />
+After finish reading data or search new data<br />
+hit ok and will bring you back to the page which you need to enter hello<br />
